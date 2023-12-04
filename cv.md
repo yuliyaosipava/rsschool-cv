@@ -61,7 +61,7 @@ On maternity leave studying Python)
 - JS
 
 **Languages:**
-- English (Different courses for IT-specialists, Courses with Native Speaker, Fellowship at EU). Intermediate/Upper-intermediate.
+- English (Different courses for IT-specialists, Courses with Native Speaker, Fellowship at EU, Duolingo-90). Intermediate/Upper-intermediate.
 - Russian
 - Belarussian
 - Polish
