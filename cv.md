@@ -58,6 +58,7 @@ On maternity leave studying Python)
 - HTML5/CSS3
 - Econometircs model
 - ML(RNN, LSTM etc/)
+- JS
 
 **Languages:**
 - English (Different courses for IT-specialists, Courses with Native Speaker, Fellowship at EU). Intermediate/Upper-intermediate.
