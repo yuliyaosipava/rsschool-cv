@@ -2,7 +2,7 @@
 ***
 ## Yuliya Osipava
 ***
-[Junior Frontend/Python developer](https://pages.github.com/)
+[Junior Frontend/Python](https://pages.github.com/)
 
 ---
 ### Contacts:
@@ -58,10 +58,9 @@ On maternity leave studying Python)
 - HTML5/CSS3
 - Econometircs model
 - ML(RNN, LSTM etc/)
-- JS
 
 **Languages:**
-- English (Different courses for IT-specialists, Courses with Native Speaker, Fellowship at EU, Duolingo-90). Intermediate/Upper-intermediate.
+- English (Different courses for IT-specialists, Courses with Native Speaker, Fellowship at EU). Intermediate/Upper-intermediate.
 - Russian
 - Belarussian
 - Polish
