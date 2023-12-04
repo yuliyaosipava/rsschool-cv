@@ -2,7 +2,7 @@
 ***
 ## Yuliya Osipava
 ***
-[Junior Frontend/Python](https://pages.github.com/)
+[Junior Frontend/Python developer](https://pages.github.com/)
 
 ---
 ### Contacts:
