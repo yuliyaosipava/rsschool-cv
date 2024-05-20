@@ -1,3 +1,3 @@
-﻿https://uto4ka101.github.io/rsschool-cv/ 
+﻿https://yuliyaosipava.github.io/rsschool-cv/ 
  
-https://uto4ka101.github.io/rsschool-cv/cv
+https://yuliyaosipava.github.io/rsschool-cv/cv
